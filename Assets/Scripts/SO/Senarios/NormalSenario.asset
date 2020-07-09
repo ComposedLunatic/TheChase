@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7732329175e54744991ff565a192a7fd, type: 3}
+  m_Name: NormalSenario
+  m_EditorClassIdentifier: 
+  _Study:
+  - "I had a solid study session, I\u2019m ready for any test. "
+  - Studies increased! Fullness decreased!
+  _Work:
+  - 'Work was pretty good today, not one problem. '
+  - Money increased! Happiness decreased!
+  _Eat:
+  - 'I had a pretty good meal, the place nearby is really good. '
+  - Fullness increased! Money decreased!
+  _Game:
+  - "Can\u2019t talk, only game. "
+  - Happiness increased! Studies decreased!
+  _Shopping:
+  - I was able to find some that look good on me.
+  - Glamour increased! Money decreased!
+  _Party:
+  - 'Had a good workout session, really felt the burn. '
+  - Popularity increased! Studies decreased!
+  _Gym:
+  - 'I was able to find a nearby party, had a good time. '
+  - Physique increased! Fullness decreased!
+  _ExtraAttempt: []
+  _End:
+  - Well I guess being responsible is harder than I thought
+  - Bad End. Game Over

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7732329175e54744991ff565a192a7fd, type: 3}
+  m_Name: SkylarSenario
+  m_EditorClassIdentifier: 
+  _Study:
+  - You looked lonely studying, mind if I keep you company?
+  - Sweet! So what part are you at right now?
+  - Ah ok I see, I'll be around if you need me.
+  - Studies increased! Fullness decreased!
+  _Work:
+  - "Hey! I noticed you\u2019re working today, got time for a chat?"
+  - Awesome! Maybe you could show me all the special deals.
+  - "I understand, you\u2019re busy. I\u2019ll see you around."
+  - Studies increased! Fullness decreased!
+  _Eat:
+  - 'Eating all by yourself? Looks like you could use a friend. '
+  - "OMG what you\u2019re eating looks sooo good, maybe I should get some too. "
+  - No worries! Maybe the next time I spot ya haha.
+  - Fullness increased! Money decreased!
+  _Game:
+  - Yo! Saw you online, wanna party up?
+  - "I\u2019m not very good though. Let\u2019s see how good you are haha."
+  - "Ok I\u2019ll see if I can catch you at a better time."
+  - Happiness increased! Studies decreased!
+  _Shopping:
+  - Hey! I saw you walk into the store and thought you could use a second opinion.
+    What do you say?
+  - "I bet everything looks good on you, but we\u2019ll have to see ;)"
+  - "That\u2019s a shame, they say I have a good eye for fashion."
+  - Glamour increased! Money decreased!
+  _Party: []
+  _Gym:
+  - "Wow you\u2019re pretty buff! Looks like you don\u2019t have a spotter though.
+    Maybe I can help?"
+  - "Let\u2019s see if we can get that body of yours looking even more fine."
+  - "No problem! I\u2019ll keep an eye out just in case. "
+  - Physique increased! Fullness decreased!
+  _ExtraAttempt:
+  - 
+  - 
+  - 
+  _End:
+  - "I\u2019ve seen so much of you lately, I just can\u2019t get enough! Surely you
+    see me the same way I see you?"
+  - "I knew it! No one could ever see you the way I do! Don\u2019t worry, I\u2019ve
+    made sure of that."
+  - "NO NO NO!! That\u2019s not how this ends! If you can\u2019t see me the way I
+    see you, then no one else will!"
+  - Bad End. Game Over

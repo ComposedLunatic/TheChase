@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7732329175e54744991ff565a192a7fd, type: 3}
+  m_Name: OakleySenario
+  m_EditorClassIdentifier: 
+  _Study:
+  - I heard you needed some help studying, mind if I teach you a few things?
+  - "Alright class is in session, I hope you\u2019re paying attention."
+  - Fine whatever, your loss.
+  - Studies increased! Fullness decreased!
+  _Work:
+  - That looks like a bit much for you to handle. Let me take those off your hands
+  - Good call, you can let me do the heavy lifting around here.
+  - "That\u2019s fine, you don\u2019t deserve my help anyways."
+  - Money increased! Happiness decreased!
+  _Eat:
+  - We meet here again. Need me to keep you safe from strangers?
+  - "You have no need to worry, I\u2019m here to protect you."
+  - Have it your way then.
+  - Fullness increased! Money decreased!
+  _Game: []
+  _Shopping:
+  - 'Fancy meeting you here. Need my opinion on anything? '
+  - "Alright let\u2019s see what I can make you look good in."
+  - "Pfft what? You think my opinion isn\u2019t good enough for you?"
+  - Glamour increased! Money decreased!
+  _Party:
+  - Having a good time? How about I change that and make it a great time?
+  - 'I know just what you need to have the best time. '
+  - "You\u2019re not gonna have much fun without me around. You better realize that. "
+  - Popularity increased! Studies decreased!
+  _Gym:
+  - "Didn\u2019t expect to see you here. Need me to show you how it\u2019s done? "
+  - "That\u2019s the spirit. I\u2019ll make sure you don\u2019t hurt yourself."
+  - "Ok, hope you know what you\u2019re doing without me."
+  - Physique increased! Fullness decreased!
+  _ExtraAttempt: []
+  _End:
+  - "We both know that you need me more than you know it, So how about it? You won\u2019t
+    make it far without me."
+  - "Was that so hard to admit? Don\u2019t worry I\u2019ll make sure you live your
+    best life."
+  - "That\u2019s not the answer I want to hear."
+  - Bad End. Game Over
